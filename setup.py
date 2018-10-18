@@ -17,7 +17,7 @@ setup(
     name='combus',
     version=find_version(),
     description='Command & Handle',
-    long_description=read('README'),
+    long_description=read('README.md'),
     license='MIT',
     author='Fowbi',
     author_email='tobi@magier.be',
